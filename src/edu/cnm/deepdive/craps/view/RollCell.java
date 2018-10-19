@@ -18,6 +18,7 @@ public class RollCell extends ListCell<Roll> {
 
   private ResourceBundle bundle;
 
+
   public RollCell(ResourceBundle bundle) {
     this.bundle = bundle;
   }
